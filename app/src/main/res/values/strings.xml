@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW7</string>
+    <string name="alex">Alex</string>
+    <string name="bob">Bob</string>
+    <string name="jayden">Jayden</string>
+    <string name="kira">Kira</string>
+    <string name="frank">Frank</string>
+    <string name="dilan">Dilan</string>
+    <string name="dan">Dan</string>
+    <string name="viktoriya">Viktoriya</string>
+    <string name="anna">Anna</string>
+    <string name="ivan">Ivan</string>
+</resources>
